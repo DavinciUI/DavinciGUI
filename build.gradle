@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group 'com.davinciui.gui'
+version '1.0.0'
